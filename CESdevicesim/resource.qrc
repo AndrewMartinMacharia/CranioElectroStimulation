@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/20MinSession.JPG</file>
+        <file>img/45MinSession.JPG</file>
+        <file>img/100Hz.JPG</file>
+        <file>img/alpha.JPG</file>
+        <file>img/audioInput.JPG</file>
+        <file>img/cesOutput.JPG</file>
+        <file>img/delta.JPG</file>
+        <file>img/down.JPG</file>
+        <file>img/intensity.JPG</file>
+        <file>img/MeT.JPG</file>
+        <file>img/powerOn.JPG</file>
+        <file>img/startSession.JPG</file>
+        <file>img/Up.JPG</file>
+        <file>img/UserDesignedSession.JPG</file>
+    </qresource>
+</RCC>
